@@ -1,6 +1,6 @@
 # Colab Notebook for deep learning using Keras on the MNIST dataset
 
-* **2021_gradient_descent_y_fx.ipynb**: Gradient descent procedure example
+* **gradient_descent_y_fx.ipynb**: Gradient descent procedure example
 * **2021_keras_mnist_v1_softmax.ipynb**: One layer softmax regression
 * **2021_keras_mnist_v2_5layer_fc.ipynb**: 5 layer deep fully connected network
 * **2021_keras_mnist_v3_5layer_fc_dropout.ipynb**: 5 layer deep fully connected network with dropout layers
